@@ -1,0 +1,4 @@
+# program
+
+
+print(input())
